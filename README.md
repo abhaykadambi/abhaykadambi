@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhaykadambi
-- 👀 I’m interested in coding and basketball, specifically node js stuff.
+- 👀 I’m interested in coding and tennis, specifically node js stuff.
 - 🌱 I’m currently learning react and tailwind.
 - 💞️ I’m looking to collaborate on anything, I'd love to collaborate on anything.
 - 📫 How to reach me: abhay.kadambi@gmail.com
