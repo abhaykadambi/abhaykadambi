@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @abhaykadambi
-- 👀 I’m interested in coding, specifically node js stuff, MUSIC ALSO.
-- 🌱 I’m currently learning react and tailwind.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me: abhay.kadambi@gmail.com
+- 📫 How to reach me: abhaykadambi05@gmail.com
 
 <!---
 abhaykadambi/abhaykadambi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
